@@ -1,2 +1,2 @@
-# ProyectoJavaEEMaven
-Ejemplo de aplicación JAVA EE con Maven.
+# ProyectoJavaEEMavenWeb
+Ejemplo de aplicación cliente JAVA EE con Maven.
